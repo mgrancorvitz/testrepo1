@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Test5</title>
+<title>Test6</title>
 </head>
 <body>
-<div>Test5</div>
+<div>Test6</div>
 <?php
-echo "Test5";
+echo "Test6";
 ?>
 </body>
 </html>
